@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "main:main.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "client_list">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "guide:main.c">
+      </ContextState>
+      <ContextState
+         contextName = "relay_data:main.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "cl">
+            </PersistentString>
+            <PersistentString
+               value = "client">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
